@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Nerko+One&display=swap");
+
+@import "reset.css";
+@import "variables.css";
+
+/* Components */
+@import "components/status-bar.css";
+
+/* Screens */
+@import "screens/login.css";
+
+body {
+  font-family: "Nerko One", cursive;
+}
