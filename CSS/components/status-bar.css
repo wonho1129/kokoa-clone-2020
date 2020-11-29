@@ -2,8 +2,9 @@
   position: fixed;
   top: 0;
   width: 100%;
+  background-color: #f9f9fa;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   padding: 5px 3px;
   box-sizing: border-box;
 }
