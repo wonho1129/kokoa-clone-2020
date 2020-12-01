@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Nerko+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
 
 @import "reset.css";
 @import "variables.css";
@@ -7,6 +7,7 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
+@import "components/user-component.css";
 
 /* Screens */
 @import "screens/login.css";
@@ -14,5 +15,5 @@
 
 body {
   font: #2e363e;
-  font-family: "Nerko One", cursive;
+  font-family: "Open Sans", sans-serif;
 }
