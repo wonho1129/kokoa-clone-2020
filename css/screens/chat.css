@@ -179,7 +179,7 @@
   opacity: 0;
 }
 
-.reply input {
+.reply:focus-within input {
   width: 99vw;
   transform: translateX(-13%) translateY(-80px);
 }
